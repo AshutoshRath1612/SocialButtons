@@ -28,8 +28,6 @@ p{
     font-family: monospace;
     margin: 3px 10px;
     font-weight: 1000;
-    transition: 1s;
-    transition-timing-function: ease;
 }
 a{
     text-decoration: none;
